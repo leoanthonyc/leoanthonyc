@@ -1,8 +1,10 @@
-### Hi 👋
+## Hi 👋
 
 Welcome to my Github profile
 
-You can reach me at [leoanthony.catane@protonmail.com](mailto:leoanthony.catane@protonmail.com)
+- 🔭 I’m currently working on my side projects
+- 🌱 I’m currently learning **Swift**
+- 👯 I’m looking to collaborate on anything, just contact me
 
 <!--
 **leoanthonyc/leoanthonyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
