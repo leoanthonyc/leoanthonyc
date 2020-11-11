@@ -3,7 +3,7 @@
 Welcome to my Github profile
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift** and **Python**
 - 👯 I’m looking to collaborate on anything, just contact me
 
 <!--
