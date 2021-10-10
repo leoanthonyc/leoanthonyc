@@ -1,3 +1,3 @@
-### Hi 👋
+### leoanthonyc
 
-Welcome to my Github profile
+hi 👋 welcome to my profile
