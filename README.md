@@ -1,3 +1,5 @@
 ### leoanthonyc
 
-hi 👋 welcome to my profile
+Hi 👋
+
+I'm a software engineer from the Philippines.
