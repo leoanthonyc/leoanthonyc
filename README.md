@@ -1,5 +1,3 @@
-### leoanthonyc
-
 Hi 👋
 
 I'm a Software Engineer from the Philippines.
