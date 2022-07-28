@@ -1,5 +1,5 @@
-Hi 👋
-
 I'm a Software Engineer from the Philippines.
 
-I write Ruby, Ruby on Rails code. I also know JavaScript and some Go. 
+I write HTML, CSS, Javascript, Ruby, and Ruby on Rails code.
+
+I am currently learning Python and Django.
